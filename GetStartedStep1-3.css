@@ -1,0 +1,101 @@
+img{
+    position: absolute;
+    bottom: 630px;
+    left: 15px;
+    height: 145px;
+    width: 225px;
+}
+a{
+    position: absolute;
+    right: 60px;
+    top: 35px;
+    font-size: 18px;
+    color: rgb(32, 32, 32);
+    font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    
+}
+.step{
+    font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    position: absolute;
+    left: 540px;
+    top: 125px;
+    font-size: 12px;
+    color: rgb(51, 51, 51);
+
+}
+.create{
+    font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    position: absolute;
+    left: 537px;
+    top: 125px;
+    font-size: 32px;
+    color: rgb(51, 51, 51);
+}
+.just{
+    font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    position: absolute;
+    left: 537px;
+    top: 230px;
+    font-size: 17px;
+    color: rgb(51, 51, 51);
+}
+.wehate{
+    font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    position: absolute;
+    left: 537px;
+    top: 260px;
+    font-size: 17px;
+    color: rgb(51, 51, 51);
+}
+.email{
+    height: 65px;
+    width: 410px;
+    position: absolute;
+    left: 537px;
+    top: 315px;
+    border-width: 1px;
+    border-color: rgb(94, 94, 94);
+    padding-left: 10px;
+    font-size: 18px;
+}
+.password{
+    height: 65px;
+    width: 410px;
+    position: absolute;
+    left: 537px;
+    top: 395px;
+    border-width: 1px;
+    border-color: rgb(94, 94, 94);
+    padding-left: 10px;
+    font-size: 18px;
+}
+.checkbox{
+    
+    position: absolute;
+    left: 530px;
+    top: 464px;
+    border-width: 5px;
+    border-color: rgb(0, 0, 0);
+    width: 28px;
+    height: 28px;
+}
+.please{
+    font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    position: absolute;
+    left: 573px;
+    top: 458px;
+    font-size: 16px;
+    color: rgb(51, 51, 51);
+}
+.next{
+    position: absolute;
+    left: 537px;
+    top: 520px;    
+    border-radius: 5px 5px 5px 5px;
+    height: 65px;
+    width: 410px;
+    font-size: 25px;
+    color: white;
+    background-color: rgb(229, 9, 20);
+    border:rgb(255, 0, 0);
+}

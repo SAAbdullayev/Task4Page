@@ -1,0 +1,97 @@
+.netflix82{
+    position: absolute;
+    bottom: 630px;
+    left: 15px;
+    height: 145px;
+    width: 225px;
+}
+a{
+    position: absolute;
+    right: 60px;
+    top: 35px;
+    font-size: 18px;
+    color: rgb(32, 32, 32);
+    font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    
+}
+.daireclick{
+    position: absolute;
+    width: 49px;
+    height: 45.5px;
+    left: 735px;
+    top: 212px;
+}
+.step{
+    position: absolute;
+    left: 720px;
+    top: 274px;
+    font-size: 12.5px;
+    color: rgb(63, 63, 63);
+    font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+
+}
+.choose{
+    position: absolute;
+    left: 627px;
+    top: 276px;
+    font-size: 31px;
+    font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    color: rgb(51, 51, 51);
+}
+.click1{
+    position: absolute;
+    left: 610px;
+    top: 374px;
+    width: 26px;
+    height: 20px;
+}
+.click2{
+    position: absolute;
+    left: 610px;
+    top: 437px;
+    width: 26px;
+    height: 20px;
+}
+.click3{
+    position: absolute;
+    left: 610px;
+    top: 500px;
+    width: 26px;
+    height: 20px;
+}
+.yazi1{
+    position: absolute;
+    left: 647px;
+    top: 354px;
+    font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    color: rgb(51, 51, 51);
+    font-size: 17.7px;
+}
+.yazi2{
+    position: absolute;
+    left: 647px;
+    top: 416px;
+    font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    color: rgb(51, 51, 51);
+    font-size: 17.7px;
+}
+.yazi3{
+    position: absolute;
+    left: 647px;
+    top: 478px;
+    font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    color: rgb(51, 51, 51);
+    font-size: 17.7px;
+}
+.next{
+    position: absolute;
+    left: 596px;
+    top: 580px;
+    border-radius: 5px 5px 5px 5px;
+    height: 64px;
+    width: 340px;
+    font-size: 25px;
+    color: white;
+    background-color: rgb(229, 9, 20);
+    border:rgb(255, 0, 0);
+}
